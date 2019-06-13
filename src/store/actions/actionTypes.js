@@ -1,3 +1,4 @@
+// this is actionTypes
 export const INCREMENT = 'INCREMENT';
 export const DECREMENT = 'DECREMENT';
 export const INCREMENTWITHFIVE = 'INCREMENTWITHFIVE';
